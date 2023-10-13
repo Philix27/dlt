@@ -1,0 +1,20 @@
+{
+  "name": "Blockchain Ledger",
+  "version": "1.0.0",
+  "description": "Blockchain Ledger",
+  "main": "index.js",
+  "scripts": {
+    "dev": "trunk serve",
+    "build": "cargo run build",
+    "deve": "cargo run dev",
+    "test": "cargo run test",
+    "fmt": "cargo fmt --all -- --check"
+  },
+  "keywords": [
+    "invoice",
+    "resume",
+    "generator"
+  ],
+  "author": "Felix Eligbue",
+  "license": "MIT"
+}
