@@ -1,6 +1,6 @@
 [package]
 version = "0.1.0"
-name = "Lix Ledger"
+name = "LixLedger"
 edition = "2023"
 author = "Philix"
 

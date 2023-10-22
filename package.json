@@ -1,5 +1,5 @@
 {
-  "name": "Blockchain Ledger",
+  "name": "blockchain_ledger",
   "version": "1.0.0",
   "description": "Blockchain Ledger",
   "main": "index.js",
